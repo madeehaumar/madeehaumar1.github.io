@@ -2,10 +2,11 @@ title: Madeeha Umar # your name (or website title) here
 logo: "/images/Madeeha 2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a data analyst and I love data.
-  <br> <br>
+  <br>
   My analytical skills and problem solving nature help businesses to grow faster.
   <br> <br>
-  My strong communication and powerful technical skills in SQL, Tableau and Microsoft Excel help me to transform data into impactful insights. This analysis supports to draw meaningful conclusions and lead companies to take strong informed business decisions. <br><br>
+  With my strong communication and powerful technical skills in SQL, Tableau and Microsoft Excel I aim to help businesses to transform data into impactful insights.
+  This analysis supports to draw meaningful conclusions and make informed business decisions. <br><br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
